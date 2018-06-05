@@ -58,5 +58,7 @@ public class CadastroParticipante {
 					"Erro",
 					JOptionPane.ERROR_MESSAGE);
 		}
+		
+		System.out.println("Alteraçao teste");
 	}
 }
